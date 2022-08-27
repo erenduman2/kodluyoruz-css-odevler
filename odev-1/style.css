@@ -1,0 +1,31 @@
+.size{
+    margin: auto;
+    float: left;
+    list-style-position: inside;
+}
+
+.list{
+    list-style-position: inside;
+}
+
+.middle{
+    margin-left: 350px;
+}
+
+.w-300{
+    width: 30;
+}
+
+.buton{
+    border-radius: 3px;
+    background-color: green;
+    color: white; 
+    text-decoration: none;
+}
+.to-center{
+    text-align: center;
+}
+
+.to-end{
+    text-align: end;
+}
